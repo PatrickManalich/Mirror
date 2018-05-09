@@ -1,1 +1,2 @@
-# mirror
+# Mirror
+This repo contains all the files necessary for instantiating the mirror. The mirror consists of multiple files used for High Fidelity's software. It leveraged a second rendering path to allow avatars to view themselves and others within the world. The mirror is already on the High Fidelity Marketplace, so there is no need to pull from this repo. This repo is purely for viewing the code and files that make up the mirror.
